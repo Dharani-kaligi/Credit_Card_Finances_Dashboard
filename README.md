@@ -9,22 +9,22 @@ This project focuses on developing a comprehensive Power BI dashboard designed t
 # Steps Involved in the Project
 - **Data Collection:** Gather CSV files containing credit card transaction and customer data.
 
--**Database Setup:** Create a structured database with appropriate tables for data storage.
+- **Database Setup:** Create a structured database with appropriate tables for data storage.
 
--**Data Import:** Load the CSV data into the database tables, ensuring data integrity.
+- **Data Import:** Load the CSV data into the database tables, ensuring data integrity.
 
--**Data Transformation:** Use SQL queries to process and derive key performance metrics.
+- **Data Transformation:** Use SQL queries to process and derive key performance metrics.
 
--**Dashboard Development:** Build the Power BI dashboard to visualize insights with charts and graphs.
+- **Dashboard Development:** Build the Power BI dashboard to visualize insights with charts and graphs.
 
--**Insight Generation:** Configure the dashboard to highlight key metrics for stakeholders.
+- **Insight Generation:** Configure the dashboard to highlight key metrics for stakeholders.
 
 # Key Features
--**Real-Time Data Visualization**: Provides up-to-date insights into transaction patterns and customer behavior.
+- **Real-Time Data Visualization**: Provides up-to-date insights into transaction patterns and customer behavior.
 
--**Intuitive Interface:** User-friendly design allows for easy navigation and exploration of key metrics.
+- **Intuitive Interface:** User-friendly design allows for easy navigation and exploration of key metrics.
 
--**Customizable Dashboards:** Stakeholders can tailor views to meet their specific analytical needs.
+- **Customizable Dashboards:** Stakeholders can tailor views to meet their specific analytical needs.
 
--**Insightful Metrics:** Highlights critical performance indicators such as approval rates, transaction volumes, and customer demographics.
+- **Insightful Metrics:** Highlights critical performance indicators such as approval rates, transaction volumes, and customer demographics.
 
