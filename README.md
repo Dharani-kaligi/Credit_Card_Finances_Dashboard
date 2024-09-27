@@ -19,3 +19,12 @@ This project focuses on developing a comprehensive Power BI dashboard designed t
 
 **Insight Generation:** Configure the dashboard to highlight key metrics for stakeholders.
 
+# Key Features
+**Real-Time Data Visualization**: Provides up-to-date insights into transaction patterns and customer behavior.
+
+**Intuitive Interface:** User-friendly design allows for easy navigation and exploration of key metrics.
+
+**Customizable Dashboards:** Stakeholders can tailor views to meet their specific analytical needs.
+
+**Insightful Metrics:** Highlights critical performance indicators such as approval rates, transaction volumes, and customer demographics.
+
