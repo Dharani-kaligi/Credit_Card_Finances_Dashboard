@@ -7,15 +7,15 @@ The Objective of this project is to develop a comprehensive weekly dashboard for
 This project focuses on developing a comprehensive Power BI dashboard designed to analyze credit card transactions and customer insights effectively. The process encompasses several key stages, including the importation of data from CSV files into a structured database, the transformation of this data into actionable insights, and the delivery of an insightful analytics platform that empowers stakeholders to make informed decisions.
 
 # Steps Involved in the Project
- Data Collection: Gather CSV files containing credit card transaction and customer data.
+ **Data Collection:** Gather CSV files containing credit card transaction and customer data.
 
-Database Setup: Create a structured database with appropriate tables for data storage.
+**Database Setup:** Create a structured database with appropriate tables for data storage.
 
-Data Import: Load the CSV data into the database tables, ensuring data integrity.
+**Data Import:** Load the CSV data into the database tables, ensuring data integrity.
 
-Data Transformation: Use SQL queries to process and derive key performance metrics.
+**Data Transformation:** Use SQL queries to process and derive key performance metrics.
 
-Dashboard Development: Build the Power BI dashboard to visualize insights with charts and graphs.
+**Dashboard Development:** Build the Power BI dashboard to visualize insights with charts and graphs.
 
-Insight Generation: Configure the dashboard to highlight key metrics for stakeholders.
+**Insight Generation:** Configure the dashboard to highlight key metrics for stakeholders.
 
